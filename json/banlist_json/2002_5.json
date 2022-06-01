@@ -1,0 +1,63 @@
+{
+    "year": 2002,
+    "month": 5,
+    "day": 7,
+    "status": [
+        {
+        "forbidden": [
+          ],
+        "limited": [
+            {
+              "name": "Exodia the Forbidden One",
+              "id": 33396948
+            },
+            {
+              "name": "Left Arm of the Forbidden One",
+              "id": 7902349
+            },
+            {
+              "name": "Left Leg of the Forbidden One",
+              "id": 44519536
+            },
+            {
+              "name": "Right Arm of the Forbidden One",
+              "id": 70903634
+            },
+            {
+              "name": "Right Leg of the Forbidden One",
+              "id": 8124921
+            },
+            {
+              "name": "Change of Heart",
+              "id": 4031928
+            },
+            {
+              "name": "Dark Hole",
+              "id": 53129443
+            },
+            {
+              "name": "Monster Reborn",
+              "id": 83764718
+            },
+            {
+              "name": "Pot of Greed",
+              "id": 55144522
+            },
+            {
+              "name": "Raigeki",
+              "id": 12580477
+            }
+          ],
+        "semi-limited": [
+            {
+              "name": "Card Destruction",
+              "id": 72892473
+            },
+            {
+              "name": "Swords of Revealing Light",
+              "id": 72302403
+            }
+          ]
+        }
+    ]
+}

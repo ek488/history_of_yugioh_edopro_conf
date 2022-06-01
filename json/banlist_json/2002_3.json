@@ -1,0 +1,15 @@
+{
+    "year": 2002,
+    "month": 3,
+    "day": 8,
+    "status": [
+      {
+        "forbidden": [
+        ],
+        "limited": [
+        ],
+        "semi-limited": [
+        ]
+      }
+    ]
+}
